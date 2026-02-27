@@ -156,7 +156,7 @@ P4TRON-Ultimate/
 
 ## License
 
-MIT License — see `LICENSE` for details.
+GNU GPLv3 License — see `LICENSE` for details.
 
 ---
 
