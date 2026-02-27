@@ -54,7 +54,7 @@
 ```bash
 # 1. Clone the repository
 git clone https://github.com/Patr10on/Advanced-Web-Vuln-Scanner
-cd P4TRON-Ultimate
+cd Advanced-Web-Vuln-Scanner
 
 # 2. (Recommended) Create a virtual environment
 python3 -m venv venv
