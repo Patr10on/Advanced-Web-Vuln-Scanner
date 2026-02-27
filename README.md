@@ -53,7 +53,7 @@
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/yourhandle/P4TRON-Ultimate.git
+git clone https://github.com/Patr10on/Advanced-Web-Vuln-Scanner
 cd P4TRON-Ultimate
 
 # 2. (Recommended) Create a virtual environment
